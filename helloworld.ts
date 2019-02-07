@@ -38,3 +38,9 @@ oneOfTwoTypes = true
 
 
 var addedNewFeature = 100
+
+
+// User added something new
+var i = 0
+var j = 1
+var k = 0
