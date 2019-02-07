@@ -43,5 +43,5 @@ var addedNewFeature = 100
 // User added something new
 var abcd = 0
 var lmonp = 1
-var jk = 0
-var wxyz = 1
+var afasfdaasfd = 0
+var asdfasfdasf = 100
